@@ -1,0 +1,14 @@
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\veiculos\veiculos\bin\Debug\net8.0\veiculos.exe
+C:\Users\Cristian\Desktop\veiculos\veiculos\bin\Debug\net8.0\veiculos.deps.json
+C:\Users\Cristian\Desktop\veiculos\veiculos\bin\Debug\net8.0\veiculos.runtimeconfig.json
+C:\Users\Cristian\Desktop\veiculos\veiculos\bin\Debug\net8.0\veiculos.dll
+C:\Users\Cristian\Desktop\veiculos\veiculos\bin\Debug\net8.0\veiculos.pdb
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.dll
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\refint\veiculos.dll
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.pdb
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\veiculos.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\veiculos\veiculos\obj\Debug\net8.0\ref\veiculos.dll
